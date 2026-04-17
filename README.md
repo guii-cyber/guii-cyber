@@ -1,114 +1,164 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif" alt="Cybersecurity Animation" width="500px" />
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" alt="Terminal Hacking Animation" width="600px" style="border-radius: 8px;" />
 </div>
 
-<h1 align="center">Guillaume Duchesne</h1>
-<h3 align="center">
-  From Belgium 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag-map_of_Belgium.svg/731px-Flag-map_of_Belgium.svg.png" alt="Belgium Flag" width="28px" /> | 
-  Final-year Bachelor in IT · Cybersecurity & Cloud Engineering
-</h3>
+<br/>
 
----
-
-## About Me
-- **Studies:** Bachelor in IT (Networks & Telecommunications – Security Option) — final year
-- **Specialization:** Cybersecurity, Cloud Infrastructure & Automation
-- **Currently focusing on:** Cloud security and infrastructure as code
-- **Learning:** AWS security architecture, Terraform, Ansible, and DevSecOps practices
-- **Open to collaborate on:** Cybersecurity and cloud infrastructure projects
-
----
-
-## My Website
-Explore my portfolio and projects → **[guillaumecyber.be](https://guillaumecyber.be)**
-
----
-
-## Tech Stack
 <div align="center">
 
-**Programming & Scripting**  
-<img src="https://img.icons8.com/color/48/python.png" alt="Python" />
-<img src="https://img.icons8.com/color/48/bash.png" alt="Bash" />
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
-<img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
-<img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="Java" />
-<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
+```
+██████╗ ██╗   ██╗██╗██╗     ██╗      █████╗ ██╗   ██╗███╗   ███╗███████╗
+██╔════╝ ██║   ██║██║██║     ██║     ██╔══██╗██║   ██║████╗ ████║██╔════╝
+██║  ███╗██║   ██║██║██║     ██║     ███████║██║   ██║██╔████╔██║█████╗  
+██║   ██║██║   ██║██║██║     ██║     ██╔══██║██║   ██║██║╚██╔╝██║██╔══╝  
+╚██████╔╝╚██████╔╝██║███████╗███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+```
 
-**Cloud & Infrastructure as Code**  
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="48"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="48"/>
-<img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
-<img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />
+</div>
 
-**Security & Systems**  
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="48"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows Server" width="48"/>
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="48"/>
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+<div align="center">
 
-**Databases**  
-<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
-<img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="MariaDB" width="48"/>
-<img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Cloud+Engineer;Final-year+Bachelor+%40+HEH+Mons;System+Hardening+%7C+IaC+%7C+DevSecOps;AWS+%7C+Terraform+%7C+Ansible)
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-guillaumecyber.be-00FF41?style=for-the-badge&logo=firefox&logoColor=00FF41&labelColor=0d1117)](https://guillaumecyber.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillaume_Duchesne-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://www.linkedin.com/in/guillaume-cyber/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-guicyber-00FF41?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=0d1117)](https://tryhackme.com/p/guicyber)
+[![Email](https://img.shields.io/badge/Email-duchesne.guil%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:duchesne.guil@gmail.com)
 
 </div>
 
 ---
 
-## Featured Projects
+## `whoami`
 
-### **[Linux Server Architecture Project](https://github.com/guii-cyber/HEH-2025-ProjetLinux)**
-**Technology Stack:** Ubuntu Server, AWS EC2, Bash  
-**Academic Project – HEH 2025**  
-Automated deployment of virtualized Linux infrastructure on AWS with service configuration, security hardening, and monitoring.
+```bash
+$ cat profile.txt
 
-### **[Diploma Verification Platform](https://github.com/guii-cyber/Diploma-Verification-Platform)**
-**Technology Stack:** Next.js, XRPL Blockchain, DID, MySQL  
-Decentralized diploma verification system using blockchain technology. Enables secure storage and verification of academic credentials through XRPL and Decentralized Identifiers.
-
-### **[Hospital Infrastructure Simulation](https://github.com/guii-cyber/Projet_interdisciplinaire)**
-**Technology Stack:** Windows Server, Linux, Active Directory, PHP, Apache/Nginx, Python, MySQL  
-**Team Project – HEH Interdisciplinary**  
-Complete network infrastructure design including VLAN configuration, DNS/DHCP services, and a patient management system with security-first architecture.
-
-### **[Personal Portfolio Website](https://guillaumecyber.be)**
-Professional portfolio showcasing projects, skills, and cybersecurity journey.
+  Name        : Guillaume Duchesne
+  Location    : Belgium 🇧🇪
+  Status      : Final-year Bachelor in IT — Networks & Telecommunications (Security)
+  Focus       : Cybersecurity · Cloud Infrastructure · Automation
+  Working on  : Cloud security, IaC
+  Learning    : AWS security architecture · Terraform · Ansible · DevSecOps
+  Collaborate : Open to cybersecurity & cloud infrastructure projects
+```
 
 ---
 
-## Cybersecurity Journey
+## `ls skills/`
+
+**Cloud & Infrastructure as Code**
+
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20VPC%20%7C%20IAM-00FF41?style=flat-square&logo=amazonwebservices&logoColor=00FF41&labelColor=0d1117)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-00FF41?style=flat-square&logo=terraform&logoColor=00FF41&labelColor=0d1117)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-00FF41?style=flat-square&logo=ansible&logoColor=00FF41&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-Containers-00FF41?style=flat-square&logo=docker&logoColor=00FF41&labelColor=0d1117)
+
+**Security & Systems**
+
+![Linux](https://img.shields.io/badge/Linux-Hardening-00FF41?style=flat-square&logo=linux&logoColor=00FF41&labelColor=0d1117)
+![Windows Server](https://img.shields.io/badge/Windows_Server-AD%20%7C%20GPO-00FF41?style=flat-square&logo=windows&logoColor=00FF41&labelColor=0d1117)
+![CIS Benchmarks](https://img.shields.io/badge/CIS-Benchmarks-00FF41?style=flat-square&logo=shield&logoColor=00FF41&labelColor=0d1117)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-00FF41?style=flat-square&logo=cisco&logoColor=00FF41&labelColor=0d1117)
+
+**Programming & Scripting**
+
+![Python](https://img.shields.io/badge/Python-scripting-00FF41?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117)
+![Bash](https://img.shields.io/badge/Bash-automation-00FF41?style=flat-square&logo=gnubash&logoColor=00FF41&labelColor=0d1117)
+![PowerShell](https://img.shields.io/badge/PowerShell-automation-00FF41?style=flat-square&logo=powershell&logoColor=00FF41&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-web-00FF41?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=0d1117)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-database-00FF41?style=flat-square&logo=mysql&logoColor=00FF41&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-00FF41?style=flat-square&logo=postgresql&logoColor=00FF41&labelColor=0d1117)
+![MariaDB](https://img.shields.io/badge/MariaDB-database-00FF41?style=flat-square&logo=mariadb&logoColor=00FF41&labelColor=0d1117)
+
+---
+
+## `ls projects/`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔒 Linux Server Architecture</h3>
+      <p>Automated deployment of virtualized Linux infrastructure on AWS with service configuration, security hardening, and monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ubuntu_Server-00FF41?style=flat-square&labelColor=0d1117&logo=ubuntu&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/AWS_EC2-00FF41?style=flat-square&labelColor=0d1117&logo=amazonwebservices&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/Bash-00FF41?style=flat-square&labelColor=0d1117&logo=gnubash&logoColor=00FF41"/>
+      </p>
+      <a href="https://github.com/guii-cyber/HEH-2025-ProjetLinux">→ View project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 Diploma Verification Platform</h3>
+      <p>Decentralized diploma verification using XRPL blockchain and Decentralized Identifiers for secure credential management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-00FF41?style=flat-square&labelColor=0d1117&logo=nextdotjs&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/XRPL-Blockchain-00FF41?style=flat-square&labelColor=0d1117&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/MySQL-00FF41?style=flat-square&labelColor=0d1117&logo=mysql&logoColor=00FF41"/>
+      </p>
+      <a href="https://github.com/guii-cyber/Diploma-Verification-Platform">→ View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Infrastructure Simulation</h3>
+      <p>Full network infrastructure design with VLAN, DNS/DHCP, Active Directory and patient management — security-first architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows_Server-00FF41?style=flat-square&labelColor=0d1117&logo=windows&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/Active_Directory-00FF41?style=flat-square&labelColor=0d1117&logoColor=00FF41"/>
+        <img src="https://img.shields.io/badge/Linux-00FF41?style=flat-square&labelColor=0d1117&logo=linux&logoColor=00FF41"/>
+      </p>
+      <a href="https://github.com/guii-cyber/Projet_interdisciplinaire">→ View project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>Professional portfolio showcasing projects, skills, and cybersecurity journey.</p>
+      <p>
+        <img src="https://img.shields.io/badge/guillaumecyber.be-00FF41?style=flat-square&labelColor=0d1117&logo=firefox&logoColor=00FF41"/>
+      </p>
+      <a href="https://guillaumecyber.be">→ Visit site</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `cat tryhackme_progress.txt`
+
 <div align="center">
   <a href="https://tryhackme.com/p/guicyber" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/guicyber.png" alt="TryHackMe Badge" />
   </a>
-  <p>
-    Actively developing cybersecurity expertise through hands-on challenges in penetration testing, network security, and vulnerability assessment.<br/>
-    <a href="https://tryhackme.com/p/guicyber" target="_blank">View Progress →</a>
-  </p>
 </div>
 
 ---
 
-## GitHub Statistics
+## `git log --stats`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guii-cyber&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guii-cyber&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guii-cyber&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guii-cyber&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff" />
 </div>
 
 ---
 
-## Connect With Me
-- **Email:** [duchesne.guil@gmail.com](mailto:duchesne.guil@gmail.com)
-- **LinkedIn:** [Guillaume Duchesne](https://www.linkedin.com/in/guillaume-cyber/)
-- **Portfolio:** [guillaumecyber.be](https://guillaumecyber.be)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=guii-cyber&color=00FF41&style=flat-square&label=profile+views" />
+</div>
 
----
+<br/>
 
 <div align="center">
-  <i>Building secure and automated cloud infrastructure for tomorrow's challenges</i>
+
+```
+> Building secure and automated cloud infrastructure_
+```
+
 </div>
