@@ -6,17 +6,17 @@
 <h3 align="center">
   From Belgium 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag-map_of_Belgium.svg/731px-Flag-map_of_Belgium.svg.png" alt="Belgium Flag" width="28px" /> | 
-  Cybersecurity & IoT Engineering Student | Building Secure Connected Solutions
+  Final-year Bachelor in IT · Cybersecurity & Cloud Engineering
 </h3>
 
 ---
 
 ## About Me
-- **Studies:** Bachelor in IT (Networks & Telecommunications – Security Option)  
-- **Specialization:** Cybersecurity, IoT & Network Infrastructure  
-- **Currently working on:** Blockchain verification systems and IoT security research
-- **Learning:** Advanced penetration testing and secure system architecture  
-- **Open to collaborate on:** Cybersecurity projects and IoT security solutions  
+- **Studies:** Bachelor in IT (Networks & Telecommunications – Security Option) — final year
+- **Specialization:** Cybersecurity, Cloud Infrastructure & Automation
+- **Currently focusing on:** Cloud security and infrastructure as code
+- **Learning:** AWS security architecture, Terraform, Ansible, and DevSecOps practices
+- **Open to collaborate on:** Cybersecurity and cloud infrastructure projects
 
 ---
 
@@ -27,34 +27,34 @@ Explore my portfolio and projects → **[guillaumecyber.be](https://guillaumecyb
 
 ## Tech Stack
 <div align="center">
-  
-**Programming Languages**  
-<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" /> 
-<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" /> 
-<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" /> 
-<img src="https://img.icons8.com/color/48/python.png" alt="Python" /> 
-<img src="https://img.icons8.com/color/48/php.png" alt="PHP" /> 
-<img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="Java" /> 
-<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />  
-<img src="https://img.icons8.com/color/48/react-native.png" alt="React" /> 
-<img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="Next.js" /> 
+
+**Programming & Scripting**  
+<img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+<img src="https://img.icons8.com/color/48/bash.png" alt="Bash" />
+<img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+<img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
+<img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="Java" />
+<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
+
+**Cloud & Infrastructure as Code**  
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="48"/>
+<img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
+<img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />
+
+**Security & Systems**  
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows Server" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="48"/>
+<img src="https://img.icons8.com/color/48/git.png" alt="Git" />
 
 **Databases**  
-<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" /> 
+<img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
 <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="MariaDB" width="48"/>
 <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
-
-**Infrastructure & Security**  
-<img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" /> 
-<img src="https://img.icons8.com/color/48/bash.png" alt="Bash" /> 
-<img src="https://img.icons8.com/color/48/git.png" alt="Git" /> 
-<img src="https://img.icons8.com/color/48/docker.png" alt="Docker" /> 
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="48"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows Server" width="48"/> 
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" width="48"/>  
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" /> 
-<img src="https://img.icons8.com/color/48/blockchain-technology.png" alt="Blockchain" /> 
-<img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub" />  
 
 </div>
 
@@ -62,27 +62,19 @@ Explore my portfolio and projects → **[guillaumecyber.be](https://guillaumecyb
 
 ## Featured Projects
 
+### **[Linux Server Architecture Project](https://github.com/guii-cyber/HEH-2025-ProjetLinux)**
+**Technology Stack:** Ubuntu Server, AWS EC2, Bash  
+**Academic Project – HEH 2025**  
+Automated deployment of virtualized Linux infrastructure on AWS with service configuration, security hardening, and monitoring.
+
 ### **[Diploma Verification Platform](https://github.com/guii-cyber/Diploma-Verification-Platform)**
 **Technology Stack:** Next.js, XRPL Blockchain, DID, MySQL  
 Decentralized diploma verification system using blockchain technology. Enables secure storage and verification of academic credentials through XRPL and Decentralized Identifiers.
 
-### **[Hospital Infrastructure Simulation - Rehabilitation Service](https://github.com/guii-cyber/Projet_interdisciplinaire)**
-**Technology Stack:** Windows Server, Linux, PHP, Apache/Nginx, Active Directory, Python, Mysql, ...  
-**Team Project - HEH Interdisciplinary**  
-Complete network infrastructure design including VLAN configuration, DNS/DHCP services, and patient management systems with security-first architecture.
-
-### **[Linux Server Architecture Project](https://github.com/guii-cyber/HEH-2025-ProjetLinux)**
-**Technology Stack:** Ubuntu Server, AWS EC2, Bash Automation  
-**Academic Project - HEH 2025**  
-Automated deployment of virtualized Linux infrastructure on AWS with comprehensive service configuration, security hardening, and monitoring.
-
-### **[La Conquête Pirate - 2D Adventure Game](https://github.com/guii-cyber/HEH-2025-Hackathon-LaConquetePirate)**
-**Hackathon Project - HEH Mons 2024**  
-Trine-inspired 2D action-adventure game featuring multi-character mechanics and strategic puzzle-solving elements.
-
-### **[Project Management System](https://github.com/guii-cyber/GDP_gr3)**
-**Technology Stack:** Python, Linux, GPIO Libraries  
-Collaborative task management solution with resource allocation, deadline tracking, and team communication features.
+### **[Hospital Infrastructure Simulation](https://github.com/guii-cyber/Projet_interdisciplinaire)**
+**Technology Stack:** Windows Server, Linux, Active Directory, PHP, Apache/Nginx, Python, MySQL  
+**Team Project – HEH Interdisciplinary**  
+Complete network infrastructure design including VLAN configuration, DNS/DHCP services, and a patient management system with security-first architecture.
 
 ### **[Personal Portfolio Website](https://guillaumecyber.be)**
 Professional portfolio showcasing projects, skills, and cybersecurity journey.
@@ -95,7 +87,7 @@ Professional portfolio showcasing projects, skills, and cybersecurity journey.
     <img src="https://tryhackme-badges.s3.amazonaws.com/guicyber.png" alt="TryHackMe Badge" />
   </a>
   <p>
-    Actively developing cybersecurity expertise through hands-on challenges in penetration testing, network security, and vulnerability assessment.  
+    Actively developing cybersecurity expertise through hands-on challenges in penetration testing, network security, and vulnerability assessment.<br/>
     <a href="https://tryhackme.com/p/guicyber" target="_blank">View Progress →</a>
   </p>
 </div>
@@ -111,12 +103,12 @@ Professional portfolio showcasing projects, skills, and cybersecurity journey.
 ---
 
 ## Connect With Me
-- **Email:** [duchesne.guil@gmail.com](mailto:duchesne.guil@gmail.com)  
-- **LinkedIn:** [Guillaume Duchesne](https://www.linkedin.com/in/guillaume-cyber/)  
+- **Email:** [duchesne.guil@gmail.com](mailto:duchesne.guil@gmail.com)
+- **LinkedIn:** [Guillaume Duchesne](https://www.linkedin.com/in/guillaume-cyber/)
 - **Portfolio:** [guillaumecyber.be](https://guillaumecyber.be)
 
 ---
 
 <div align="center">
-  <i>Building secure solutions for tomorrow's connected world</i>
+  <i>Building secure and automated cloud infrastructure for tomorrow's challenges</i>
 </div>
