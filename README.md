@@ -1,23 +1,10 @@
 <div align="center">
 
-```
-██████╗ ██╗   ██╗██╗██╗     ██╗      █████╗ ██╗   ██╗███╗   ███╗███████╗
-██╔════╝ ██║   ██║██║██║     ██║     ██╔══██╗██║   ██║████╗ ████║██╔════╝
-██║  ███╗██║   ██║██║██║     ██║     ███████║██║   ██║██╔████╔██║█████╗  
-██║   ██║██║   ██║██║██║     ██║     ██╔══██║██║   ██║██║╚██╔╝██║██╔══╝  
-╚██████╔╝╚██████╔╝██║███████╗███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗
- ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-```
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=99999&color=2ea043&center=true&vCenter=true&width=700&height=80&lines=Guillaume+Duchesne)
 
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2ea043&center=true&vCenter=true&width=600&height=40&lines=Cybersecurity+%26+Cloud+Engineer;Final-year+Bachelor+%40+HEH+Mons;System+Hardening+%7C+IaC+%7C+DevSecOps;AWS+%7C+Terraform+%7C+Ansible)
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ea043&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Cloud+Engineer;Final-year+Bachelor+%40+HEH+Mons;System+Hardening+%7C+IaC+%7C+DevSecOps;AWS+%7C+Terraform+%7C+Ansible)
-
-</div>
-
-<div align="center">
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-guillaumecyber.be-2ea043?style=for-the-badge&logo=firefox&logoColor=2ea043&labelColor=0d1117)](https://guillaumecyber.be)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillaume_Duchesne-2ea043?style=for-the-badge&logo=linkedin&logoColor=2ea043&labelColor=0d1117)](https://www.linkedin.com/in/guillaume-cyber/)
@@ -145,14 +132,6 @@ $ cat profile.txt
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=guii-cyber&color=2ea043&style=flat-square&label=profile+views" />
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-> Building secure and automated cloud infrastructure_
-```
-
+  <br/><br/>
+  <code>> Building secure and automated cloud infrastructure_</code>
 </div>
